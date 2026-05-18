@@ -70,7 +70,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-05-18T17:20:00.346891",
+    "last_updated": "2026-05-18T19:11:28.454844",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.112"
@@ -273,7 +273,7 @@
       "respiration": null,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": 702,
+      "steps": 2486,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
@@ -508,12 +508,12 @@
           "weeks_available": 4
         },
         "stream_2": {
-          "planned_tss_delta": 1.17,
+          "planned_tss_delta": null,
           "hard_sessions_planned": 2,
           "current_week_hard_days_completed": 0,
           "current_week_hard_days_total": 2,
           "race_proximity": 13,
-          "next_week_load": 1.16,
+          "next_week_load": 0.83,
           "plan_coverage_current_week": 1.0,
           "plan_coverage_next_week": 0.8
         },
@@ -550,7 +550,7 @@
     "p_max": 314,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-05-18T17:20:00.345713",
+    "calculation_timestamp": "2026-05-18T19:11:28.453999",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 7,
@@ -2681,7 +2681,7 @@
       "respiration": null,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": 702,
+      "steps": 2486,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
@@ -2694,43 +2694,43 @@
   ],
   "planned_workouts": [
     {
-      "id": 110872529,
+      "id": 110967073,
       "date": "2026-05-19",
       "name": "Run - 10k Sharpening Intervals",
       "type": "WORKOUT",
       "sport_type": "Run",
-      "planned_tss": 78,
-      "duration_hours": 1.08,
-      "duration_formatted": "1h5m",
-      "workout_summary": "15m | 5\u00d76m / 2m rec | 10m",
+      "planned_tss": null,
+      "duration_hours": 1.0,
+      "duration_formatted": "1h10s",
+      "workout_summary": "15m | 5\u00d75m2s / 2m rec | 10m",
       "has_terrain": false,
-      "description": "# 10k Sharpening Intervals\n- Warmup 15m 65% Pace\n\nMain Set 5x\n- 1km 10k Pace\n- Recovery 2m 60% Pace\n\n- Cooldown 10m 65% Pace"
+      "description": "# 10k Sharpening Intervals\n**Goal:** Improve race-specific pacing and economy near current 10k effort.\n\n**HR Guidance:**\n- Warmup / Recovery: <75-78% HRmax\n- 10k reps: 88-92% HRmax\n\n- Warmup 15m 5:50/km-6:10/km Pace\n\nMain Set 5x\n- 1km 5:00/km-5:05/km Pace\n- Recovery 2m 6:10/km-6:40/km Pace\n\n- Cooldown 10m 5:50/km-6:15/km Pace"
     },
     {
-      "id": 110872530,
+      "id": 110967075,
       "date": "2026-05-20",
       "name": "Run - Easy Aerobic Recovery",
       "type": "WORKOUT",
       "sport_type": "Run",
-      "planned_tss": 38,
+      "planned_tss": null,
       "duration_hours": 0.83,
       "duration_formatted": "50m",
       "workout_summary": null,
       "has_terrain": false,
-      "description": "# Easy Aerobic Recovery\n- Warmup 5m 65% Pace\n- 40m Z2 Pace\n- Cooldown 5m 60% Pace"
+      "description": "# Easy Aerobic Recovery\n**Goal:** Recovery + aerobic volume.\n\n**HR Guidance:**\n- Main aerobic block: 75-82% HRmax\n- Fully conversational effort\n\n- Warmup 5m 6:00/km-6:20/km Pace\n- 40m 5:30/km-5:50/km Pace\n- Cooldown 5m 6:10/km-6:40/km Pace"
     },
     {
-      "id": 110872531,
+      "id": 110967076,
       "date": "2026-05-21",
       "name": "Run - Threshold Tempo",
       "type": "WORKOUT",
       "sport_type": "Run",
-      "planned_tss": 72,
+      "planned_tss": null,
       "duration_hours": 0.97,
       "duration_formatted": "58m",
       "workout_summary": "15m | 3\u00d78m / 3m rec | 10m",
       "has_terrain": false,
-      "description": "# Threshold Tempo\n- Warmup 15m 65% Pace\n\nMain Set 3x\n- 8m 88-92% Pace\n- Recovery 3m 60% Pace\n\n- Cooldown 10m 65% Pace"
+      "description": "# Threshold Tempo\n**Goal:** Raise lactate threshold and improve sustained speed.\n\n**HR Guidance:**\n- Tempo intervals: 88-92% HRmax\n- Controlled breathing, avoid fading\n\n- Warmup 15m 5:50/km-6:10/km Pace\n\nMain Set 3x\n- 8m 5:00/km-5:08/km Pace\n- Recovery 3m 6:10/km-6:40/km Pace\n\n- Cooldown 10m 5:50/km-6:15/km Pace"
     },
     {
       "id": 110872532,
@@ -2746,30 +2746,30 @@
       "description": "- OFF"
     },
     {
-      "id": 110872533,
+      "id": 110967077,
       "date": "2026-05-23",
       "name": "Run - Long Easy Run",
       "type": "WORKOUT",
       "sport_type": "Run",
-      "planned_tss": 58,
+      "planned_tss": null,
       "duration_hours": 1.25,
       "duration_formatted": "1h15m",
       "workout_summary": null,
       "has_terrain": false,
-      "description": "# Long Easy Run\n- Warmup 10m 65% Pace\n- 60m Z2 Pace\n- Cooldown 5m 60% Pace"
+      "description": "# Long Easy Run\n**Goal:** Aerobic durability and endurance.\n\n**HR Guidance:**\n- Main endurance block: 75-82% HRmax\n- Relaxed sustainable breathing throughout\n\n- Warmup 10m 5:55/km-6:15/km Pace\n- 60m 5:30/km-5:50/km Pace\n- Cooldown 5m 6:10/km-6:40/km Pace"
     },
     {
-      "id": 110872534,
+      "id": 110967078,
       "date": "2026-05-25",
       "name": "Run - VO2 Priming",
       "type": "WORKOUT",
       "sport_type": "Run",
-      "planned_tss": 70,
+      "planned_tss": null,
       "duration_hours": 0.82,
       "duration_formatted": "49m",
       "workout_summary": "15m | 6\u00d72m / 2m rec | 10m",
       "has_terrain": false,
-      "description": "# VO2 Priming\n- Warmup 15m 65% Pace\n\nMain Set 6x\n- 2m 105% Pace\n- Recovery 2m 60% Pace\n\n- Cooldown 10m 65% Pace"
+      "description": "# VO2 Priming\n**Goal:** Improve aerobic power and speed economy.\n\n**HR Guidance:**\n- VO2 reps: 92-96% HRmax\n- Recovery: allow HR to fall before next rep\n\n- Warmup 15m 5:50/km-6:10/km Pace\n\nMain Set 6x\n- 2m 4:35/km-4:45/km Pace\n- Recovery 2m 6:10/km-6:40/km Pace\n\n- Cooldown 10m 5:55/km-6:15/km Pace"
     },
     {
       "id": 110872535,
