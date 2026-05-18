@@ -1,0 +1,305 @@
+{
+  "generated_at": "2026-05-18T11:24:30.261358",
+  "version": "3.112",
+  "script_hash": "a60c2ee19b34",
+  "scan_hours": 72,
+  "retention_days": 14,
+  "activities": [
+    {
+      "activity_id": "i148984453",
+      "date": "2026-05-17",
+      "type": "Run",
+      "name": "Alc\u00e1cer do Sal - Run Aerobic Endurance Reduced",
+      "interval_summary": [
+        "1x 16m19s 135bpm",
+        "1x 35m57s 149bpm",
+        "1x 10m1s 154bpm",
+        "1x 6m57s 158bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "979s@135bpm83rpm",
+          "duration_secs": 979,
+          "avg_hr": 135,
+          "max_hr": 147,
+          "avg_cadence": 82.962265,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "2157s@149bpm84rpm",
+          "duration_secs": 2157,
+          "avg_hr": 149,
+          "max_hr": 157,
+          "avg_cadence": 84.17381,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "601s@154bpm86rpm",
+          "duration_secs": 601,
+          "avg_hr": 154,
+          "max_hr": 160,
+          "avg_cadence": 85.673874,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "417s@158bpm85rpm",
+          "duration_secs": 417,
+          "avg_hr": 158,
+          "max_hr": 163,
+          "avg_cadence": 84.83214,
+          "zone": 2
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 152,
+          "max_hr": 152,
+          "avg_cadence": 81.0,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i148576953",
+      "date": "2026-05-15",
+      "type": "Run",
+      "name": "Alc\u00e1cer do Sal - Run Easy Aerobic",
+      "interval_summary": [
+        "1x 44m24s 150bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "2664s@150bpm85rpm",
+          "duration_secs": 2664,
+          "avg_hr": 150,
+          "max_hr": 162,
+          "avg_cadence": 84.81569,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 152,
+          "max_hr": 152,
+          "avg_cadence": 82.0,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i148059674",
+      "date": "2026-05-14",
+      "type": "Run",
+      "name": "Oeiras - Run Threshold Durability",
+      "interval_summary": [
+        "1x 15m1s 144bpm",
+        "3x 10m 167bpm",
+        "2x 3m 157bpm",
+        "1x 6m31s 162bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "901s@144bpm82rpm",
+          "duration_secs": 901,
+          "avg_hr": 144,
+          "max_hr": 154,
+          "avg_cadence": 82.204216,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "600s@167bpm87rpm",
+          "duration_secs": 600,
+          "avg_hr": 162,
+          "max_hr": 169,
+          "avg_cadence": 87.083336,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "180s@157bpm84rpm",
+          "duration_secs": 180,
+          "avg_hr": 155,
+          "max_hr": 163,
+          "avg_cadence": 83.52778,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "600s@167bpm87rpm",
+          "duration_secs": 600,
+          "avg_hr": 170,
+          "max_hr": 180,
+          "avg_cadence": 86.85333,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "180s@157bpm84rpm",
+          "duration_secs": 180,
+          "avg_hr": 159,
+          "max_hr": 168,
+          "avg_cadence": 84.55,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "600s@167bpm87rpm",
+          "duration_secs": 600,
+          "avg_hr": 168,
+          "max_hr": 176,
+          "avg_cadence": 86.49,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "391s@162bpm83rpm",
+          "duration_secs": 391,
+          "avg_hr": 162,
+          "max_hr": 175,
+          "avg_cadence": 82.89514,
+          "zone": 3
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 147,
+          "max_hr": 147,
+          "avg_cadence": 83.0,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i147833772",
+      "date": "2026-05-13",
+      "type": "Run",
+      "name": "Oeiras - Run Strides Activation",
+      "interval_summary": [
+        "1x 15m1s 145bpm",
+        "4x 60s 177bpm",
+        "3x 2m 174bpm",
+        "1x 10m14s 169bpm",
+        "1x 34s 170bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "901s@145bpm85rpm",
+          "duration_secs": 901,
+          "avg_hr": 145,
+          "max_hr": 161,
+          "avg_cadence": 85.402885,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "60s@177bpm88rpm",
+          "duration_secs": 60,
+          "avg_hr": 171,
+          "max_hr": 181,
+          "avg_cadence": 87.2,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "120s@174bpm82rpm",
+          "duration_secs": 120,
+          "avg_hr": 171,
+          "max_hr": 180,
+          "avg_cadence": 83.48333,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "60s@177bpm88rpm",
+          "duration_secs": 60,
+          "avg_hr": 179,
+          "max_hr": 185,
+          "avg_cadence": 87.46667,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "120s@174bpm82rpm",
+          "duration_secs": 120,
+          "avg_hr": 176,
+          "max_hr": 185,
+          "avg_cadence": 82.541664,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "60s@177bpm88rpm",
+          "duration_secs": 60,
+          "avg_hr": 178,
+          "max_hr": 185,
+          "avg_cadence": 87.63333,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "120s@174bpm82rpm",
+          "duration_secs": 120,
+          "avg_hr": 174,
+          "max_hr": 184,
+          "avg_cadence": 81.40833,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "60s@177bpm88rpm",
+          "duration_secs": 60,
+          "avg_hr": 178,
+          "max_hr": 185,
+          "avg_cadence": 89.1,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "614s@169bpm83rpm",
+          "duration_secs": 614,
+          "avg_hr": 169,
+          "max_hr": 185,
+          "avg_cadence": 83.441666,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "34s@170bpm82rpm",
+          "duration_secs": 34,
+          "avg_hr": 170,
+          "max_hr": 171,
+          "avg_cadence": 81.911766,
+          "zone": 3
+        }
+      ]
+    },
+    {
+      "activity_id": "i147415019",
+      "date": "2026-05-12",
+      "type": "Run",
+      "name": "Oeiras - Run Aerobic Endurance",
+      "interval_summary": [
+        "1x 41m7s 149bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "2467s@149bpm83rpm",
+          "duration_secs": 2467,
+          "avg_hr": 149,
+          "max_hr": 166,
+          "avg_cadence": 82.97527,
+          "zone": 1
+        }
+      ]
+    }
+  ]
+}
