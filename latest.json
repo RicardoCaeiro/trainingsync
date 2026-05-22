@@ -70,7 +70,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-05-22T14:34:14.886883",
+    "last_updated": "2026-05-22T16:57:07.837163",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.112"
@@ -481,14 +481,13 @@
     },
     "consistency_index": 0.0,
     "consistency_details": {
-      "planned_days": 5,
+      "planned_days": 4,
       "completed_days": 0,
       "matched_days": 0,
       "planned_dates": [
         "2026-05-16",
         "2026-05-17",
         "2026-05-19",
-        "2026-05-20",
         "2026-05-21"
       ],
       "completed_dates": []
@@ -513,7 +512,7 @@
           "current_week_hard_days_total": 2,
           "race_proximity": 9,
           "next_week_load": 0.83,
-          "plan_coverage_current_week": 0.4,
+          "plan_coverage_current_week": 0.6,
           "plan_coverage_next_week": 0.8
         },
         "data_quality": "good",
@@ -549,13 +548,13 @@
     "p_max": 314,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-05-22T14:34:14.885787",
+    "calculation_timestamp": "2026-05-22T16:57:07.836038",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 7,
       "activities_7d": 4,
       "activities_28d": 19,
-      "planned_workouts_7d": 7,
+      "planned_workouts_7d": 6,
       "ftp_history_days": {
         "indoor": 0,
         "outdoor": 0
@@ -2776,6 +2775,19 @@
       "description": "# Long Easy Run\n**Goal:** Aerobic durability and endurance.\n\n**HR Guidance:**\n- Main endurance block: 75-82% HRmax\n- Relaxed sustainable breathing throughout\n\n- Warmup 10m 5:55/km-6:15/km Pace\n- 60m 5:30/km-5:50/km Pace\n- Cooldown 5m 6:10/km-6:40/km Pace"
     },
     {
+      "id": 110967075,
+      "date": "2026-05-24",
+      "name": "Run - Easy Aerobic Recovery",
+      "type": "WORKOUT",
+      "sport_type": "Run",
+      "planned_tss": null,
+      "duration_hours": 0.83,
+      "duration_formatted": "50m",
+      "workout_summary": null,
+      "has_terrain": false,
+      "description": "# Easy Aerobic Recovery\n**Goal:** Recovery + aerobic volume.\n\n**HR Guidance:**\n- Main aerobic block: 75-82% HRmax\n- Fully conversational effort\n\n- Warmup 5m 6:00/km-6:20/km Pace\n- 40m 5:30/km-5:50/km Pace\n- Cooldown 5m 6:10/km-6:40/km Pace"
+    },
+    {
       "id": 110967078,
       "date": "2026-05-25",
       "name": "Run - VO2 Priming",
@@ -2829,12 +2841,12 @@
     }
   ],
   "workout_summary_stats": {
-    "attempted": 4,
+    "attempted": 5,
     "success": 3,
     "patternA": 3,
     "patternB": 0,
     "bail_no_workout_doc": 2,
-    "bail_no_match": 1
+    "bail_no_match": 2
   },
   "weekly_summary": {
     "total_training_hours": 3.9,
