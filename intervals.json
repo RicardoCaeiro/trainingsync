@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T17:43:24.924806",
+  "generated_at": "2026-05-23T18:44:07.131711",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -533,6 +533,56 @@
           "max_hr": 172,
           "avg_cadence": 83.24138,
           "zone": 3
+        }
+      ]
+    },
+    {
+      "activity_id": "i150890984",
+      "date": "2026-05-23",
+      "type": "Run",
+      "name": "Benavente - Run - Long Easy Run",
+      "interval_summary": [
+        "1x 10m1s 137bpm",
+        "1x 1h 159bpm",
+        "1x 5m1s 162bpm",
+        "1x 6m32s 156bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "601s@137bpm84rpm",
+          "duration_secs": 601,
+          "avg_hr": 137,
+          "max_hr": 151,
+          "avg_cadence": 83.72546,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "3600s@159bpm85rpm",
+          "duration_secs": 3600,
+          "avg_hr": 159,
+          "max_hr": 171,
+          "avg_cadence": 85.065575,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "301s@162bpm84rpm",
+          "duration_secs": 301,
+          "avg_hr": 162,
+          "max_hr": 169,
+          "avg_cadence": 83.88705,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "392s@156bpm84rpm",
+          "duration_secs": 392,
+          "avg_hr": 156,
+          "max_hr": 162,
+          "avg_cadence": 83.94898,
+          "zone": 2
         }
       ]
     }
