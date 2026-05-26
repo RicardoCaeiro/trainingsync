@@ -70,7 +70,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-05-26T17:01:25.037856",
+    "last_updated": "2026-05-26T19:28:08.934620",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.112"
@@ -207,8 +207,8 @@
       "ctl": 24.69,
       "atl": 32.67,
       "tsb": -7.98,
-      "ramp_rate": 1.52,
-      "fitness_source": "From Intervals.icu API (reflects completed workouts)"
+      "ramp_rate": 3.12,
+      "fitness_source": "Decayed from yesterday (today's planned workouts not yet completed)"
     },
     "thresholds": {
       "eftp": 97.7,
@@ -481,14 +481,15 @@
     },
     "consistency_index": 0.0,
     "consistency_details": {
-      "planned_days": 4,
+      "planned_days": 5,
       "completed_days": 0,
       "matched_days": 0,
       "planned_dates": [
         "2026-05-21",
         "2026-05-23",
         "2026-05-24",
-        "2026-05-25"
+        "2026-05-25",
+        "2026-05-26"
       ],
       "completed_dates": []
     },
@@ -548,13 +549,13 @@
     "p_max": 314,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-05-26T17:01:25.036549",
+    "calculation_timestamp": "2026-05-26T19:28:08.933493",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 6,
       "activities_7d": 4,
       "activities_28d": 19,
-      "planned_workouts_7d": 6,
+      "planned_workouts_7d": 7,
       "ftp_history_days": {
         "indoor": 0,
         "outdoor": 0
@@ -2750,7 +2751,7 @@
   "planned_workouts": [
     {
       "id": 110872535,
-      "date": "2026-05-27",
+      "date": "2026-05-26",
       "name": "Run - Race Pace Tune Up",
       "type": "WORKOUT",
       "sport_type": "Run",
