@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T23:47:57.811870",
+  "generated_at": "2026-05-27T03:33:09.196771",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -278,26 +278,6 @@
           "max_hr": 171,
           "avg_cadence": 81.911766,
           "zone": 3
-        }
-      ]
-    },
-    {
-      "activity_id": "i147415019",
-      "date": "2026-05-12",
-      "type": "Run",
-      "name": "Oeiras - Run Aerobic Endurance",
-      "interval_summary": [
-        "1x 41m7s 149bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "2467s@149bpm83rpm",
-          "duration_secs": 2467,
-          "avg_hr": 149,
-          "max_hr": 166,
-          "avg_cadence": 82.97527,
-          "zone": 1
         }
       ]
     },
