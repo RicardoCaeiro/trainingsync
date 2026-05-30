@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T22:51:40.929167",
+  "generated_at": "2026-05-30T00:07:49.755776",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -59,34 +59,6 @@
           "avg_hr": 152,
           "max_hr": 152,
           "avg_cadence": 81.0,
-          "zone": 1
-        }
-      ]
-    },
-    {
-      "activity_id": "i148576953",
-      "date": "2026-05-15",
-      "type": "Run",
-      "name": "Alc\u00e1cer do Sal - Run Easy Aerobic",
-      "interval_summary": [
-        "1x 44m24s 150bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "2664s@150bpm85rpm",
-          "duration_secs": 2664,
-          "avg_hr": 150,
-          "max_hr": 162,
-          "avg_cadence": 84.81569,
-          "zone": 1
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 1,
-          "avg_hr": 152,
-          "max_hr": 152,
-          "avg_cadence": 82.0,
           "zone": 1
         }
       ]
