@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T09:28:40.315820",
+  "generated_at": "2026-05-31T11:17:15.742185",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -613,6 +613,54 @@
           "max_hr": 159,
           "avg_cadence": 59.0,
           "zone": 2
+        }
+      ]
+    },
+    {
+      "activity_id": "i152878692",
+      "date": "2026-05-31",
+      "type": "Run",
+      "name": "Coruche Corrida",
+      "interval_summary": [
+        "1x 3m45s 151bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "225s@151bpm79rpm",
+          "duration_secs": 225,
+          "avg_hr": 151,
+          "max_hr": 160,
+          "avg_cadence": 78.68445,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 152,
+          "max_hr": 152,
+          "avg_cadence": 54.0,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i152876446",
+      "date": "2026-05-31",
+      "type": "Run",
+      "name": "Coruche Corrida",
+      "interval_summary": [
+        "1x 48m46s 178bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "2926s@178bpm88rpm",
+          "duration_secs": 2926,
+          "avg_hr": 178,
+          "max_hr": 195,
+          "avg_cadence": 88.26726,
+          "zone": 4
         }
       ]
     }
