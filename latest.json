@@ -70,7 +70,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-05-31T11:17:16.346946",
+    "last_updated": "2026-05-31T12:56:42.740846",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.112"
@@ -184,7 +184,7 @@
   "history": {
     "available": true,
     "last_generated": "2026-05-18",
-    "age_days": 12,
+    "age_days": 13,
     "total_months": 35,
     "history_confidence": "high"
   },
@@ -505,7 +505,7 @@
           "race_proximity": 0,
           "next_week_load": null,
           "plan_coverage_current_week": 0.2,
-          "plan_coverage_next_week": 0.0
+          "plan_coverage_next_week": 0.6
         },
         "data_quality": "good",
         "stream_agreement": null
@@ -540,7 +540,7 @@
     "p_max": 314,
     "power_model_source": "wellness.sportInfo",
     "vo2max": 47.0,
-    "calculation_timestamp": "2026-05-31T11:17:16.345819",
+    "calculation_timestamp": "2026-05-31T12:56:42.739438",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 7,
@@ -2752,15 +2752,171 @@
       "workout_summary": null,
       "has_terrain": false,
       "description": "# 10k Goal Race\n- Warmup 20m 65% Pace\n- 10km 10k Pace\n- Cooldown 15m 60% Pace"
+    },
+    {
+      "id": 113282532,
+      "date": "2026-06-02",
+      "name": "10K Recovery Run",
+      "type": "WORKOUT",
+      "sport_type": "Run",
+      "planned_tss": null,
+      "duration_hours": 0.67,
+      "duration_formatted": "40m",
+      "workout_summary": null,
+      "has_terrain": false,
+      "description": "- 40m Z1 Easy Run"
+    },
+    {
+      "id": 113282533,
+      "date": "2026-06-04",
+      "name": "Threshold Intervals",
+      "type": "WORKOUT",
+      "sport_type": "Run",
+      "planned_tss": null,
+      "duration_hours": 0.47,
+      "duration_formatted": "28m",
+      "workout_summary": null,
+      "has_terrain": false,
+      "description": "- 15m Easy\n- 3x10m @ 5:00/km Threshold / 3m Easy\n- 10m Easy"
+    },
+    {
+      "id": 113282534,
+      "date": "2026-06-07",
+      "name": "Long Aerobic Run",
+      "type": "WORKOUT",
+      "sport_type": "Run",
+      "planned_tss": null,
+      "duration_hours": 1.5,
+      "duration_formatted": "1h30m",
+      "workout_summary": null,
+      "has_terrain": false,
+      "description": "- 90m Easy Aerobic Z2"
+    },
+    {
+      "id": 113282536,
+      "date": "2026-06-09",
+      "name": "VO2 Development",
+      "type": "WORKOUT",
+      "sport_type": "Run",
+      "planned_tss": null,
+      "duration_hours": 0.45,
+      "duration_formatted": "27m",
+      "workout_summary": null,
+      "has_terrain": false,
+      "description_preview": "- 15m Easy\n- 6x3m @ 4:25/km / 2m Easy\n- 10m Easy"
+    },
+    {
+      "id": 113282537,
+      "date": "2026-06-11",
+      "name": "Aerobic Run + Strides",
+      "type": "WORKOUT",
+      "sport_type": "Run",
+      "planned_tss": null,
+      "duration_hours": 0.77,
+      "duration_formatted": "46m",
+      "workout_summary": null,
+      "has_terrain": false,
+      "description_preview": "- 45m Easy\n- 6x20s Fast Strides / 60s Walk"
+    },
+    {
+      "id": 113282538,
+      "date": "2026-06-14",
+      "name": "Long Run Progression",
+      "type": "WORKOUT",
+      "sport_type": "Run",
+      "planned_tss": null,
+      "duration_hours": 1.5,
+      "duration_formatted": "1h30m",
+      "workout_summary": null,
+      "has_terrain": false,
+      "description_preview": "- 75m Easy\n- 15m @ 5:15/km"
+    },
+    {
+      "id": 113282540,
+      "date": "2026-06-16",
+      "name": "10K Specific Intervals",
+      "type": "WORKOUT",
+      "sport_type": "Run",
+      "planned_tss": null,
+      "duration_hours": 0.45,
+      "duration_formatted": "27m",
+      "workout_summary": null,
+      "has_terrain": false,
+      "description_preview": "- 15m Easy\n- 5x1km @ 4:45/km / 2m Easy\n- 10m Easy"
+    },
+    {
+      "id": 113282541,
+      "date": "2026-06-18",
+      "name": "Recovery Run",
+      "type": "WORKOUT",
+      "sport_type": "Run",
+      "planned_tss": null,
+      "duration_hours": 0.75,
+      "duration_formatted": "45m",
+      "workout_summary": null,
+      "has_terrain": false,
+      "description_preview": "- 45m Easy Z1"
+    },
+    {
+      "id": 113282542,
+      "date": "2026-06-21",
+      "name": "Long Aerobic Run",
+      "type": "WORKOUT",
+      "sport_type": "Run",
+      "planned_tss": null,
+      "duration_hours": 1.67,
+      "duration_formatted": "1h40m",
+      "workout_summary": null,
+      "has_terrain": false,
+      "description_preview": "- 100m Easy Aerobic Z2"
+    },
+    {
+      "id": 113282544,
+      "date": "2026-06-23",
+      "name": "Threshold Durability",
+      "type": "WORKOUT",
+      "sport_type": "Run",
+      "planned_tss": null,
+      "duration_hours": 0.92,
+      "duration_formatted": "55m",
+      "workout_summary": null,
+      "has_terrain": false,
+      "description_preview": "- 15m Easy\n- 30m @ 5:00/km Threshold\n- 10m Easy"
+    },
+    {
+      "id": 113282545,
+      "date": "2026-06-25",
+      "name": "VO2 Sharpening",
+      "type": "WORKOUT",
+      "sport_type": "Run",
+      "planned_tss": null,
+      "duration_hours": 0.45,
+      "duration_formatted": "27m",
+      "workout_summary": null,
+      "has_terrain": false,
+      "description_preview": "- 15m Easy\n- 8x2m @ 4:20/km / 2m Easy\n- 10m Easy"
+    },
+    {
+      "id": 113282546,
+      "date": "2026-06-28",
+      "name": "Long Run Cutback",
+      "type": "WORKOUT",
+      "sport_type": "Run",
+      "planned_tss": null,
+      "duration_hours": 1.33,
+      "duration_formatted": "1h20m",
+      "workout_summary": null,
+      "has_terrain": false,
+      "description_preview": "- 80m Easy Aerobic Z2"
     }
   ],
   "workout_summary_stats": {
-    "attempted": 0,
+    "attempted": 12,
     "success": 0,
     "patternA": 0,
     "patternB": 0,
     "bail_no_workout_doc": 1,
-    "bail_no_match": 0
+    "bail_no_match": 12
   },
   "weekly_summary": {
     "total_training_hours": 2.46,
