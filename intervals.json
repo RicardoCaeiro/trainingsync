@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T06:47:05.647372",
+  "generated_at": "2026-06-02T11:16:18.591233",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -603,6 +603,36 @@
           "max_hr": 195,
           "avg_cadence": 88.26726,
           "zone": 4
+        }
+      ]
+    },
+    {
+      "activity_id": "i153383940",
+      "date": "2026-06-02",
+      "type": "Run",
+      "name": "Oeiras - 10K Recovery Run",
+      "interval_summary": [
+        "1x 40m1s 145bpm",
+        "1x 3m 148bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "2401s@145bpm84rpm",
+          "duration_secs": 2401,
+          "avg_hr": 145,
+          "max_hr": 159,
+          "avg_cadence": 84.06456,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "180s@148bpm83rpm",
+          "duration_secs": 180,
+          "avg_hr": 148,
+          "max_hr": 156,
+          "avg_cadence": 82.54444,
+          "zone": 1
         }
       ]
     }
