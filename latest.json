@@ -70,7 +70,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-06-06T05:40:35.720736",
+    "last_updated": "2026-06-06T08:12:58.669668",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.112"
@@ -196,7 +196,7 @@
       "atl": 22.95,
       "tsb": 1.06,
       "ramp_rate": 0.47,
-      "fitness_source": "From Intervals.icu API (reflects completed workouts)"
+      "fitness_source": "Decayed from yesterday (today's planned workouts not yet completed)"
     },
     "thresholds": {
       "eftp": 97.3,
@@ -456,12 +456,13 @@
     },
     "consistency_index": 0.0,
     "consistency_details": {
-      "planned_days": 2,
+      "planned_days": 3,
       "completed_days": 0,
       "matched_days": 0,
       "planned_dates": [
         "2026-06-02",
-        "2026-06-04"
+        "2026-06-04",
+        "2026-06-06"
       ],
       "completed_dates": []
     },
@@ -483,8 +484,8 @@
           "current_week_hard_days_total": 1,
           "race_proximity": null,
           "next_week_load": null,
-          "plan_coverage_current_week": 0.2,
-          "plan_coverage_next_week": 0.6
+          "plan_coverage_current_week": 0.4,
+          "plan_coverage_next_week": 0.8
         },
         "data_quality": "good",
         "stream_agreement": null
@@ -517,13 +518,13 @@
     "p_max": 313,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-06-06T05:40:35.719561",
+    "calculation_timestamp": "2026-06-06T08:12:58.668446",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 6,
       "activities_7d": 4,
       "activities_28d": 17,
-      "planned_workouts_7d": 3,
+      "planned_workouts_7d": 4,
       "ftp_history_days": {
         "indoor": 0,
         "outdoor": 0
@@ -2510,6 +2511,19 @@
   ],
   "planned_workouts": [
     {
+      "id": 114447597,
+      "date": "2026-06-06",
+      "name": "Easy Aerobic Run",
+      "type": "WORKOUT",
+      "sport_type": "Run",
+      "planned_tss": null,
+      "duration_hours": 0.67,
+      "duration_formatted": "40m",
+      "workout_summary": null,
+      "has_terrain": false,
+      "description": "- Easy run 40m Z2 Pace"
+    },
+    {
       "id": 113282534,
       "date": "2026-06-07",
       "name": "Long Aerobic Run",
@@ -2547,6 +2561,19 @@
       "workout_summary": null,
       "has_terrain": false,
       "description": "- 45m Easy\n- 6x20s Fast Strides / 60s Walk"
+    },
+    {
+      "id": 114447414,
+      "date": "2026-06-13",
+      "name": "Easy Aerobic Run",
+      "type": "WORKOUT",
+      "sport_type": "Run",
+      "planned_tss": null,
+      "duration_hours": 0.67,
+      "duration_formatted": "40m",
+      "workout_summary": null,
+      "has_terrain": false,
+      "description": "- Easy run 40m Z2 Pace"
     },
     {
       "id": 113282538,
@@ -2588,6 +2615,19 @@
       "description_preview": "- 45m Easy Z1"
     },
     {
+      "id": 114447415,
+      "date": "2026-06-20",
+      "name": "Easy Aerobic Run",
+      "type": "WORKOUT",
+      "sport_type": "Run",
+      "planned_tss": null,
+      "duration_hours": 0.75,
+      "duration_formatted": "45m",
+      "workout_summary": null,
+      "has_terrain": false,
+      "description_preview": "- Easy run 45m Z2 Pace"
+    },
+    {
       "id": 113282542,
       "date": "2026-06-21",
       "name": "Long Aerobic Run",
@@ -2627,6 +2667,19 @@
       "description_preview": "- 15m Easy\n- 8x2m @ 4:20/km / 2m Easy\n- 10m Easy"
     },
     {
+      "id": 114447416,
+      "date": "2026-06-27",
+      "name": "Easy Aerobic Run",
+      "type": "WORKOUT",
+      "sport_type": "Run",
+      "planned_tss": null,
+      "duration_hours": 0.67,
+      "duration_formatted": "40m",
+      "workout_summary": null,
+      "has_terrain": false,
+      "description_preview": "- Easy run 40m Z2 Pace"
+    },
+    {
       "id": 113282546,
       "date": "2026-06-28",
       "name": "Long Run Cutback",
@@ -2638,15 +2691,28 @@
       "workout_summary": null,
       "has_terrain": false,
       "description_preview": "- 80m Easy Aerobic Z2"
+    },
+    {
+      "id": 114447417,
+      "date": "2026-07-04",
+      "name": "Easy Aerobic Run",
+      "type": "WORKOUT",
+      "sport_type": "Run",
+      "planned_tss": null,
+      "duration_hours": 0.58,
+      "duration_formatted": "35m",
+      "workout_summary": null,
+      "has_terrain": false,
+      "description_preview": "- Easy run 35m Z2 Pace"
     }
   ],
   "workout_summary_stats": {
-    "attempted": 10,
+    "attempted": 15,
     "success": 0,
     "patternA": 0,
     "patternB": 0,
     "bail_no_workout_doc": 0,
-    "bail_no_match": 10
+    "bail_no_match": 15
   },
   "weekly_summary": {
     "total_training_hours": 2.62,
