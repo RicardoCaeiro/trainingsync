@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T21:09:56.758922",
+  "generated_at": "2026-06-07T22:17:35.949676",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -436,6 +436,44 @@
           "max_hr": 164,
           "avg_cadence": 82.69316,
           "zone": 2
+        }
+      ]
+    },
+    {
+      "activity_id": "i155165203",
+      "date": "2026-06-07",
+      "type": "Run",
+      "name": "Oeiras - Long Aerobic Run",
+      "interval_summary": [
+        "1x 1h31m 159bpm",
+        "1x 4s 177bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "5486s@159bpm85rpm",
+          "duration_secs": 5486,
+          "avg_hr": 159,
+          "max_hr": 179,
+          "avg_cadence": 85.273415,
+          "zone": 2
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 177,
+          "max_hr": 177,
+          "avg_cadence": 82.0,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "4s@177bpm82rpm",
+          "duration_secs": 4,
+          "avg_hr": 177,
+          "max_hr": 178,
+          "avg_cadence": 81.75,
+          "zone": 4
         }
       ]
     }
