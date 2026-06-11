@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T06:25:44.054421",
+  "generated_at": "2026-06-11T11:08:58.597813",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -262,6 +262,54 @@
           "duration_secs": 1,
           "avg_hr": 136,
           "max_hr": 136,
+          "avg_cadence": 81.0,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i156272613",
+      "date": "2026-06-11",
+      "type": "Run",
+      "name": "Oeiras - Aerobic Run + Strides",
+      "interval_summary": [
+        "1x 45m1s 142bpm",
+        "1x 59s 158bpm",
+        "1x 2m42s 146bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "2701s@142bpm84rpm",
+          "duration_secs": 2701,
+          "avg_hr": 142,
+          "max_hr": 158,
+          "avg_cadence": 84.181046,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "59s@158bpm85rpm",
+          "duration_secs": 59,
+          "avg_hr": 158,
+          "max_hr": 161,
+          "avg_cadence": 84.79661,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "162s@146bpm82rpm",
+          "duration_secs": 162,
+          "avg_hr": 146,
+          "max_hr": 160,
+          "avg_cadence": 82.28395,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 137,
+          "max_hr": 137,
           "avg_cadence": 81.0,
           "zone": 1
         }
