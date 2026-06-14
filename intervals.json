@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T05:05:45.287384",
+  "generated_at": "2026-06-14T08:49:16.906816",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -312,6 +312,46 @@
           "max_hr": 137,
           "avg_cadence": 81.0,
           "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i157097480",
+      "date": "2026-06-14",
+      "type": "Run",
+      "name": "Oeiras - Long Run Progression",
+      "interval_summary": [
+        "1x 1h16m 151bpm",
+        "1x 15m21s 157bpm",
+        "1x 2m21s 159bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "4610s@151bpm85rpm",
+          "duration_secs": 4610,
+          "avg_hr": 151,
+          "max_hr": 169,
+          "avg_cadence": 85.23473,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "921s@157bpm83rpm",
+          "duration_secs": 921,
+          "avg_hr": 157,
+          "max_hr": 163,
+          "avg_cadence": 83.04772,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "141s@159bpm82rpm",
+          "duration_secs": 141,
+          "avg_hr": 159,
+          "max_hr": 165,
+          "avg_cadence": 82.25532,
+          "zone": 2
         }
       ]
     }
