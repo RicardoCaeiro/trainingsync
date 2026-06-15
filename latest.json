@@ -70,7 +70,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-06-15T19:55:21.579349",
+    "last_updated": "2026-06-15T22:17:00.030655",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.112"
@@ -522,7 +522,7 @@
     "p_max": 312,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-06-15T19:55:21.578148",
+    "calculation_timestamp": "2026-06-15T22:17:00.029489",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 7,
@@ -2357,14 +2357,14 @@
       "type": "WORKOUT",
       "sport_type": "Run",
       "planned_tss": null,
-      "duration_hours": 0.45,
-      "duration_formatted": "27m",
-      "workout_summary": null,
+      "duration_hours": 0.98,
+      "duration_formatted": "58m45s",
+      "workout_summary": "15m | 5\u00d74m45s / 2m rec | 10m",
       "has_terrain": false,
-      "description": "- 15m Easy\n- 5x1km @ 4:45/km / 2m Easy\n- 10m Easy"
+      "description": "- Warmup 15m Z1 Pace\n\nMain Set 5x\n- 1km 4:45/km Pace\n- Recovery 2m Z1 Pace\n\n- Cooldown 10m Z1 Pace"
     },
     {
-      "id": 113282541,
+      "id": 116363064,
       "date": "2026-06-18",
       "name": "Recovery Run",
       "type": "WORKOUT",
@@ -2374,7 +2374,7 @@
       "duration_formatted": "45m",
       "workout_summary": null,
       "has_terrain": false,
-      "description": "- 45m Easy Z1"
+      "description": "- Easy run 45m Z1 Pace"
     },
     {
       "id": 114447415,
@@ -2390,7 +2390,7 @@
       "description": "- Easy run 45m Z2 Pace"
     },
     {
-      "id": 113282542,
+      "id": 116363065,
       "date": "2026-06-21",
       "name": "Long Aerobic Run",
       "type": "WORKOUT",
@@ -2400,10 +2400,10 @@
       "duration_formatted": "1h40m",
       "workout_summary": null,
       "has_terrain": false,
-      "description": "- 100m Easy Aerobic Z2"
+      "description": "- Warmup 10m Z1 Pace\n- Endurance 80m Z2 Pace\n- Cooldown 10m Z1 Pace"
     },
     {
-      "id": 113282544,
+      "id": 116363067,
       "date": "2026-06-23",
       "name": "Threshold Durability",
       "type": "WORKOUT",
@@ -2413,20 +2413,19 @@
       "duration_formatted": "55m",
       "workout_summary": null,
       "has_terrain": false,
-      "description_preview": "- 15m Easy\n- 30m @ 5:00/km Threshold\n- 10m Easy"
+      "description_preview": "- Warmup 15m Z1 Pace\n- Threshold 30m 5:00/km Pace\n- Cooldown 10m Z1 Pace"
     },
     {
-      "id": 113282545,
+      "id": 116363068,
       "date": "2026-06-25",
       "name": "VO2 Sharpening",
       "type": "WORKOUT",
       "sport_type": "Run",
       "planned_tss": null,
-      "duration_hours": 0.45,
-      "duration_formatted": "27m",
-      "workout_summary": null,
-      "has_terrain": false,
-      "description_preview": "- 15m Easy\n- 8x2m @ 4:20/km / 2m Easy\n- 10m Easy"
+      "duration_hours": 0.95,
+      "duration_formatted": "57m",
+      "workout_summary": "15m | 8\u00d72m / 2m rec | 10m",
+      "has_terrain": false
     },
     {
       "id": 114447416,
@@ -2442,7 +2441,7 @@
       "description_preview": "- Easy run 40m Z2 Pace"
     },
     {
-      "id": 113282546,
+      "id": 116363069,
       "date": "2026-06-28",
       "name": "Long Run Cutback",
       "type": "WORKOUT",
@@ -2452,7 +2451,7 @@
       "duration_formatted": "1h20m",
       "workout_summary": null,
       "has_terrain": false,
-      "description_preview": "- 80m Easy Aerobic Z2"
+      "description_preview": "- Warmup 10m Z1 Pace\n- Endurance 60m Z2 Pace\n- Cooldown 10m Z1 Pace"
     },
     {
       "id": 114447417,
@@ -2470,11 +2469,11 @@
   ],
   "workout_summary_stats": {
     "attempted": 9,
-    "success": 0,
-    "patternA": 0,
+    "success": 2,
+    "patternA": 2,
     "patternB": 0,
     "bail_no_workout_doc": 0,
-    "bail_no_match": 9
+    "bail_no_match": 7
   },
   "weekly_summary": {
     "total_training_hours": 3.23,
