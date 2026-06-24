@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T20:16:36.094047",
+  "generated_at": "2026-06-24T21:52:48.393262",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -276,6 +276,34 @@
           "max_hr": 169,
           "avg_cadence": 84.09615,
           "zone": 3
+        }
+      ]
+    },
+    {
+      "activity_id": "i160096275",
+      "date": "2026-06-24",
+      "type": "Run",
+      "name": "Oeiras Corrida",
+      "interval_summary": [
+        "1x 31m57s 146bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "1917s@146bpm84rpm",
+          "duration_secs": 1917,
+          "avg_hr": 146,
+          "max_hr": 163,
+          "avg_cadence": 84.24491,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 2,
+          "avg_hr": 156,
+          "max_hr": 157,
+          "avg_cadence": 80.0,
+          "zone": 2
         }
       ]
     }
