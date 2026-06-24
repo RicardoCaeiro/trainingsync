@@ -1,68 +1,10 @@
 {
-  "generated_at": "2026-06-23T23:20:51.967638",
+  "generated_at": "2026-06-24T01:24:28.249508",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i155616850",
-      "date": "2026-06-09",
-      "type": "Run",
-      "name": "Oeiras - VO2 Development",
-      "interval_summary": [
-        "1x 15m1s 141bpm",
-        "1x 2m 153bpm",
-        "1x 10m 158bpm",
-        "1x 26m 158bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "901s@141bpm83rpm",
-          "duration_secs": 901,
-          "avg_hr": 141,
-          "max_hr": 154,
-          "avg_cadence": 83.272224,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "120s@153bpm89rpm",
-          "duration_secs": 120,
-          "avg_hr": 153,
-          "max_hr": 165,
-          "avg_cadence": 88.725,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "600s@158bpm86rpm",
-          "duration_secs": 600,
-          "avg_hr": 158,
-          "max_hr": 173,
-          "avg_cadence": 86.15833,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "1560s@158bpm85rpm",
-          "duration_secs": 1560,
-          "avg_hr": 158,
-          "max_hr": 176,
-          "avg_cadence": 84.90449,
-          "zone": 2
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 1,
-          "avg_hr": 136,
-          "max_hr": 136,
-          "avg_cadence": 81.0,
-          "zone": 1
-        }
-      ]
-    },
     {
       "activity_id": "i156272613",
       "date": "2026-06-11",
