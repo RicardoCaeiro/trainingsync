@@ -1,40 +1,10 @@
 {
-  "generated_at": "2026-07-02T22:47:11.425817",
+  "generated_at": "2026-07-03T00:03:11.051608",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i158262597",
-      "date": "2026-06-18",
-      "type": "Run",
-      "name": "Beja - Recovery Run",
-      "interval_summary": [
-        "1x 45m1s 155bpm",
-        "1x 4m20s 165bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "2701s@155bpm84rpm",
-          "duration_secs": 2701,
-          "avg_hr": 155,
-          "max_hr": 169,
-          "avg_cadence": 83.78268,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "260s@165bpm84rpm",
-          "duration_secs": 260,
-          "avg_hr": 165,
-          "max_hr": 169,
-          "avg_cadence": 84.09615,
-          "zone": 3
-        }
-      ]
-    },
     {
       "activity_id": "i160096275",
       "date": "2026-06-24",
