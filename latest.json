@@ -70,7 +70,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-07-25T06:36:54.983995",
+    "last_updated": "2026-07-25T08:49:46.783671",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.112"
@@ -257,7 +257,7 @@
       "respiration": null,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": 6049,
+      "steps": 6207,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
@@ -479,7 +479,7 @@
           "race_proximity": null,
           "next_week_load": null,
           "plan_coverage_current_week": 1.0,
-          "plan_coverage_next_week": 2.0
+          "plan_coverage_next_week": 6.0
         },
         "data_quality": "good",
         "stream_agreement": null
@@ -512,7 +512,7 @@
     "p_max": 302,
     "power_model_source": "wellness.sportInfo",
     "vo2max": 48.0,
-    "calculation_timestamp": "2026-07-25T06:36:54.982978",
+    "calculation_timestamp": "2026-07-25T08:49:46.782498",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 4,
@@ -1020,7 +1020,7 @@
       "respiration": null,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": 6049,
+      "steps": 6207,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
@@ -1046,6 +1046,19 @@
       "description": "- Corrida de Base Leve 5km 6:15-6:30/km Pace"
     },
     {
+      "id": 124999771,
+      "date": "2026-07-27",
+      "name": "Corrida Regenerativa",
+      "type": "WORKOUT",
+      "sport_type": "Run",
+      "planned_tss": null,
+      "duration_hours": 0.33,
+      "duration_formatted": "20m",
+      "workout_summary": null,
+      "has_terrain": false,
+      "description": "- Corrida Regenerativa 20m 6:20-6:35/km Pace"
+    },
+    {
       "id": 124961442,
       "date": "2026-07-29",
       "name": "Corrida de Desenvolvimento",
@@ -1057,6 +1070,32 @@
       "workout_summary": "31m2s | 4\u00d729s / 1m rec",
       "has_terrain": false,
       "description": "- Corrida 5km 6:05-6:20/km Pace\n\n4x\n- Acelera\u00e7\u00e3o 80mtr Z6 Pace\n- Recupera\u00e7\u00e3o 1m Z1 HR"
+    },
+    {
+      "id": 124999772,
+      "date": "2026-07-29",
+      "name": "Fartlek Introdut\u00f3rio",
+      "type": "WORKOUT",
+      "sport_type": "Run",
+      "planned_tss": 19,
+      "duration_hours": 0.42,
+      "duration_formatted": "25m",
+      "workout_summary": "10m | 4\u00d730s / 1m30s rec | 7m",
+      "has_terrain": false,
+      "description": "- Aquecimento 10m Z2 HR\n\n4x\n- Forte 30s 5:00/km Pace\n- Caminhada 90s Z1 HR\n\n- Arrefecimento 7m Z1 HR"
+    },
+    {
+      "id": 124999773,
+      "date": "2026-07-31",
+      "name": "Corrida Base Z2",
+      "type": "WORKOUT",
+      "sport_type": "Run",
+      "planned_tss": 21,
+      "duration_hours": 0.33,
+      "duration_formatted": "20m",
+      "workout_summary": null,
+      "has_terrain": false,
+      "description": "- Corrida Base 20m Z2 HR"
     },
     {
       "id": 124961443,
@@ -1072,6 +1111,44 @@
       "description_preview": "- Corrida Longa Controlada 6km 6:00-6:15/km Pace"
     },
     {
+      "id": 124999774,
+      "date": "2026-08-02",
+      "name": "Corrida Longa Controlada",
+      "type": "WORKOUT",
+      "sport_type": "Run",
+      "planned_tss": null,
+      "duration_hours": 0.5,
+      "duration_formatted": "30m",
+      "workout_summary": null,
+      "has_terrain": false,
+      "description_preview": "- Corrida Progressiva 30m 6:30-6:00/km Pace"
+    },
+    {
+      "id": 124999775,
+      "date": "2026-08-03",
+      "name": "Corrida Regenerativa",
+      "type": "WORKOUT",
+      "sport_type": "Run",
+      "planned_tss": null,
+      "duration_hours": 0.37,
+      "duration_formatted": "22m",
+      "workout_summary": null,
+      "has_terrain": false,
+      "description_preview": "- Corrida Regenerativa 22m 6:25-6:40/km Pace"
+    },
+    {
+      "id": 124999776,
+      "date": "2026-08-05",
+      "name": "Fartlek de Velocidade",
+      "type": "WORKOUT",
+      "sport_type": "Run",
+      "planned_tss": 20,
+      "duration_hours": 0.45,
+      "duration_formatted": "27m",
+      "workout_summary": "10m | 5\u00d730s / 1m30s rec | 7m",
+      "has_terrain": false
+    },
+    {
       "id": 124961444,
       "date": "2026-08-06",
       "name": "Progress\u00e3o Confort\u00e1vel",
@@ -1083,15 +1160,143 @@
       "workout_summary": null,
       "has_terrain": false,
       "description_preview": "- Suave 3km 6:15/km Pace\n- Progressivo 2km 5:45/km Pace"
+    },
+    {
+      "id": 124999777,
+      "date": "2026-08-07",
+      "name": "Corrida Base Z2",
+      "type": "WORKOUT",
+      "sport_type": "Run",
+      "planned_tss": null,
+      "duration_hours": 0.33,
+      "duration_formatted": "20m",
+      "workout_summary": null,
+      "has_terrain": false,
+      "description_preview": "20 min a ritmo confort\u00e1vel (ritmo ~6:10/km, FC ~148 bpm). Foco em postura e passada eficiente."
+    },
+    {
+      "id": 124999778,
+      "date": "2026-08-09",
+      "name": "Corrida Longa",
+      "type": "WORKOUT",
+      "sport_type": "Run",
+      "planned_tss": null,
+      "duration_hours": 0.63,
+      "duration_formatted": "38m",
+      "workout_summary": null,
+      "has_terrain": false,
+      "description_preview": "- Corrida Longa 38m 6:15/km Pace"
+    },
+    {
+      "id": 124999779,
+      "date": "2026-08-10",
+      "name": "Corrida Regenerativa",
+      "type": "WORKOUT",
+      "sport_type": "Run",
+      "planned_tss": null,
+      "duration_hours": 0.42,
+      "duration_formatted": "25m",
+      "workout_summary": null,
+      "has_terrain": false,
+      "description_preview": "25 min suaves. Correr sem olhar para o ritmo, apenas por sensa\u00e7\u00f5es, mantendo esfor\u00e7o muito baixo."
+    },
+    {
+      "id": 124999780,
+      "date": "2026-08-12",
+      "name": "Est\u00edmulo VO2max I",
+      "type": "WORKOUT",
+      "sport_type": "Run",
+      "planned_tss": 19,
+      "duration_hours": 0.5,
+      "duration_formatted": "30m",
+      "workout_summary": "10m | 3\u00d72m / 2m rec | 8m",
+      "has_terrain": false
+    },
+    {
+      "id": 124999781,
+      "date": "2026-08-14",
+      "name": "Corrida Base Z2",
+      "type": "WORKOUT",
+      "sport_type": "Run",
+      "planned_tss": 21,
+      "duration_hours": 0.33,
+      "duration_formatted": "20m",
+      "workout_summary": null,
+      "has_terrain": false,
+      "description_preview": "- Corrida Base 20m Z2 HR"
+    },
+    {
+      "id": 124999782,
+      "date": "2026-08-16",
+      "name": "Corrida Longa",
+      "type": "WORKOUT",
+      "sport_type": "Run",
+      "planned_tss": null,
+      "duration_hours": 0.7,
+      "duration_formatted": "42m",
+      "workout_summary": null,
+      "has_terrain": false,
+      "description_preview": "- Corrida Longa 42m 6:15-6:20/km Pace"
+    },
+    {
+      "id": 124999783,
+      "date": "2026-08-17",
+      "name": "Corrida Regenerativa",
+      "type": "WORKOUT",
+      "sport_type": "Run",
+      "planned_tss": null,
+      "duration_hours": 0.42,
+      "duration_formatted": "25m",
+      "workout_summary": null,
+      "has_terrain": false,
+      "description_preview": "- Corrida Regenerativa 25m 6:30/km Pace"
+    },
+    {
+      "id": 124999784,
+      "date": "2026-08-19",
+      "name": "Est\u00edmulo VO2max II",
+      "type": "WORKOUT",
+      "sport_type": "Run",
+      "planned_tss": 21,
+      "duration_hours": 0.57,
+      "duration_formatted": "34m",
+      "workout_summary": "10m | 4\u00d72m / 2m rec | 8m",
+      "has_terrain": false
+    },
+    {
+      "id": 124999785,
+      "date": "2026-08-21",
+      "name": "Corrida Base Z2",
+      "type": "WORKOUT",
+      "sport_type": "Run",
+      "planned_tss": null,
+      "duration_hours": 0.33,
+      "duration_formatted": "20m",
+      "workout_summary": null,
+      "has_terrain": false,
+      "description_preview": "- Corrida Base Z2 20m 6:15/km Pace"
+    },
+    {
+      "id": 124999786,
+      "date": "2026-08-23",
+      "name": "Corrida Longa",
+      "type": "WORKOUT",
+      "sport_type": "Run",
+      "planned_tss": null,
+      "duration_hours": 0.75,
+      "duration_formatted": "45m",
+      "workout_summary": null,
+      "has_terrain": false,
+      "description_preview": "- Corrida Longa 45m 6:20/km Pace"
     }
   ],
   "workout_summary_stats": {
-    "attempted": 4,
-    "success": 1,
-    "patternA": 1,
+    "attempted": 18,
+    "success": 5,
+    "patternA": 5,
     "patternB": 0,
-    "bail_no_workout_doc": 0,
-    "bail_no_match": 3
+    "bail_no_workout_doc": 2,
+    "bail_no_match": 13
   },
   "weekly_summary": {
     "total_training_hours": 1.12,
