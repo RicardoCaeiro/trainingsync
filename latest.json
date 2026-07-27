@@ -70,7 +70,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-07-27T20:19:44.053178",
+    "last_updated": "2026-07-27T21:37:11.157210",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.112"
@@ -266,7 +266,7 @@
       "respiration": null,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": null,
+      "steps": 15,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
@@ -481,12 +481,12 @@
           "weeks_available": 4
         },
         "stream_2": {
-          "planned_tss_delta": 2.4,
+          "planned_tss_delta": 2.51,
           "hard_sessions_planned": 1,
           "current_week_hard_days_completed": 0,
           "current_week_hard_days_total": 1,
           "race_proximity": null,
-          "next_week_load": 2.45,
+          "next_week_load": 2.84,
           "plan_coverage_current_week": 3.0,
           "plan_coverage_next_week": 3.0
         },
@@ -521,7 +521,7 @@
     "p_max": 301,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-07-27T20:19:44.052072",
+    "calculation_timestamp": "2026-07-27T21:37:11.156127",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 5,
@@ -1029,7 +1029,7 @@
       "respiration": null,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": null,
+      "steps": 15,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
@@ -1047,12 +1047,12 @@
       "name": "Corrida Regenerativa",
       "type": "WORKOUT",
       "sport_type": "Run",
-      "planned_tss": 25,
-      "duration_hours": 0.4,
-      "duration_formatted": "24m",
+      "planned_tss": 30,
+      "duration_hours": 0.5,
+      "duration_formatted": "30m",
       "workout_summary": null,
       "has_terrain": false,
-      "description": "- Corrida Regenerativa 4km Z2 HR"
+      "description": "- Corrida Regenerativa 5km Z2 HR"
     },
     {
       "id": 125182612,
@@ -1060,12 +1060,12 @@
       "name": "Introdu\u00e7\u00e3o \u00e0 Velocidade",
       "type": "WORKOUT",
       "sport_type": "Run",
-      "planned_tss": 19,
-      "duration_hours": 0.41,
-      "duration_formatted": "24m24s",
-      "workout_summary": "12m | 4\u00d736s / 1m rec | 6m",
+      "planned_tss": 16,
+      "duration_hours": 0.51,
+      "duration_formatted": "30m36s",
+      "workout_summary": "12m | 6\u00d736s / 1m rec | 9m",
       "has_terrain": false,
-      "description": "- Aquecimento 2km Z2 HR\n\n4x\n- Progress\u00e3o 100mtr Z5 Pace\n- Recupera\u00e7\u00e3o 1m Z1 HR\n\n- Arrefecimento 1km Z1 HR"
+      "description": "- Aquecimento 2km Z2 HR\n\n6x\n- Progress\u00e3o 100mtr Z5 Pace\n- Recupera\u00e7\u00e3o 1m Z1 HR\n\n- Arrefecimento 1.5km"
     },
     {
       "id": 125182613,
@@ -1074,11 +1074,11 @@
       "type": "WORKOUT",
       "sport_type": "Run",
       "planned_tss": null,
-      "duration_hours": 0.4,
-      "duration_formatted": "24m",
+      "duration_hours": 0.7,
+      "duration_formatted": "42m",
       "workout_summary": null,
       "has_terrain": false,
-      "description": "- Corrida Longa de Base 4km Z2 Pace"
+      "description": "- Corrida Longa de Base 7km Z2 Pace"
     },
     {
       "id": 125182615,
@@ -1086,12 +1086,12 @@
       "name": "Corrida Cont\u00ednua Leve",
       "type": "WORKOUT",
       "sport_type": "Run",
-      "planned_tss": 28,
-      "duration_hours": 0.45,
-      "duration_formatted": "27m",
+      "planned_tss": 36,
+      "duration_hours": 0.6,
+      "duration_formatted": "36m",
       "workout_summary": null,
       "has_terrain": false,
-      "description_preview": "- Corrida Cont\u00ednua Leve 4.5km Z2 HR"
+      "description_preview": "- Corrida Cont\u00ednua Leve 6km Z2 HR"
     },
     {
       "id": 125182616,
@@ -1099,10 +1099,10 @@
       "name": "Intervalos de Ritmo",
       "type": "WORKOUT",
       "sport_type": "Run",
-      "planned_tss": 17,
-      "duration_hours": 0.43,
-      "duration_formatted": "25m39s",
-      "workout_summary": "9m | 3\u00d71m21s / 1m12s rec | 9m",
+      "planned_tss": 16,
+      "duration_hours": 0.6,
+      "duration_formatted": "36m",
+      "workout_summary": "12m | 5\u00d71m48s / 1m12s rec | 9m",
       "has_terrain": false
     },
     {
@@ -1112,8 +1112,8 @@
       "type": "WORKOUT",
       "sport_type": "Run",
       "planned_tss": null,
-      "duration_hours": 0.45,
-      "duration_formatted": "27m15s",
+      "duration_hours": 0.59,
+      "duration_formatted": "35m15s",
       "workout_summary": null,
       "has_terrain": false,
       "description_preview": "- Progressivo 1km 6:30/km Pace\n- Progressivo 1km 6:15/km Pace\n- Progressivo 1km 6:00/km Pace"
