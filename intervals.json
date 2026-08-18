@@ -1,37 +1,35 @@
 {
-  "generated_at": "2026-08-08T23:54:06.638431",
+  "generated_at": "2026-08-18T09:29:14.340262",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
     {
-      "activity_id": "i168987579",
-      "date": "2026-07-25",
+      "activity_id": "i177068680",
+      "date": "2026-08-18",
       "type": "Run",
-      "name": "Oeiras - Corrida de Base Leve",
+      "name": "Gr\u00e2ndola Corrida",
       "interval_summary": [
-        "1x 32m10s 148bpm",
-        "1x 60s 166bpm"
+        "1x 34m35s 160bpm"
       ],
       "intervals": [
         {
           "type": "WORK",
-          "label": "1930s@148bpm83rpm",
-          "duration_secs": 1930,
-          "avg_hr": 148,
-          "max_hr": 170,
-          "avg_cadence": 82.93691,
-          "zone": 1
+          "label": "2075s@160bpm83rpm",
+          "duration_secs": 2075,
+          "avg_hr": 160,
+          "max_hr": 179,
+          "avg_cadence": 82.83373,
+          "zone": 2
         },
         {
-          "type": "WORK",
-          "label": "60s@166bpm83rpm",
-          "duration_secs": 60,
-          "avg_hr": 166,
-          "max_hr": 170,
-          "avg_cadence": 82.63333,
-          "zone": 3
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 171,
+          "max_hr": 171,
+          "avg_cadence": 82.0,
+          "zone": 4
         }
       ]
     }
