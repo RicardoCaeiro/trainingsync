@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T08:56:55.002633",
+  "generated_at": "2026-08-21T09:37:21.570696",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -50,6 +50,26 @@
           "max_hr": 167,
           "avg_cadence": 84.71952,
           "zone": 2
+        }
+      ]
+    },
+    {
+      "activity_id": "i178216628",
+      "date": "2026-08-21",
+      "type": "Run",
+      "name": "Gr\u00e2ndola Corrida",
+      "interval_summary": [
+        "1x 38m32s 139bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "2312s@139bpm83rpm",
+          "duration_secs": 2312,
+          "avg_hr": 139,
+          "max_hr": 160,
+          "avg_cadence": 82.56993,
+          "zone": 1
         }
       ]
     }
