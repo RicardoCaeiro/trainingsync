@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T09:24:14.623980",
+  "generated_at": "2026-08-23T09:51:27.938421",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -70,6 +70,34 @@
           "max_hr": 160,
           "avg_cadence": 82.56993,
           "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i178820031",
+      "date": "2026-08-23",
+      "type": "Run",
+      "name": "Benavente Corrida",
+      "interval_summary": [
+        "1x 28m21s 149bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "1701s@149bpm72rpm",
+          "duration_secs": 1701,
+          "avg_hr": 149,
+          "max_hr": 168,
+          "avg_cadence": 71.52999,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 159,
+          "max_hr": 159,
+          "avg_cadence": 113.0,
+          "zone": 2
         }
       ]
     }
