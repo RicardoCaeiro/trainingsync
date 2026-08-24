@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T09:12:32.647578",
+  "generated_at": "2026-08-24T10:04:43.245511",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -97,6 +97,34 @@
           "avg_hr": 159,
           "max_hr": 159,
           "avg_cadence": 113.0,
+          "zone": 2
+        }
+      ]
+    },
+    {
+      "activity_id": "i179171658",
+      "date": "2026-08-24",
+      "type": "Run",
+      "name": "Sintra Corrida",
+      "interval_summary": [
+        "1x 1h11m 149bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "4307s@149bpm83rpm",
+          "duration_secs": 4307,
+          "avg_hr": 149,
+          "max_hr": 164,
+          "avg_cadence": 82.69736,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 159,
+          "max_hr": 159,
+          "avg_cadence": 83.0,
           "zone": 2
         }
       ]
