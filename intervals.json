@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T05:04:18.666606",
+  "generated_at": "2026-09-03T09:48:16.714369",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -166,6 +166,26 @@
           "max_hr": 173,
           "avg_cadence": 83.12206,
           "zone": 2
+        }
+      ]
+    },
+    {
+      "activity_id": "i182728989",
+      "date": "2026-09-03",
+      "type": "Run",
+      "name": "Aveiro Corrida",
+      "interval_summary": [
+        "1x 45m28s 146bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "2728s@146bpm83rpm",
+          "duration_secs": 2728,
+          "avg_hr": 146,
+          "max_hr": 166,
+          "avg_cadence": 83.38804,
+          "zone": 1
         }
       ]
     }
