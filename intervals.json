@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T04:58:33.317183",
+  "generated_at": "2026-09-09T09:31:08.090017",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -120,6 +120,36 @@
           "max_hr": 146,
           "avg_cadence": 82.680855,
           "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i184799819",
+      "date": "2026-09-09",
+      "type": "Run",
+      "name": "Oeiras - Return to Running \u2014 Easy Aerob",
+      "interval_summary": [
+        "1x 47m48s 151bpm",
+        "1x 4s 162bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "2868s@151bpm83rpm",
+          "duration_secs": 2868,
+          "avg_hr": 151,
+          "max_hr": 168,
+          "avg_cadence": 82.86607,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "4s@162bpm74rpm",
+          "duration_secs": 4,
+          "avg_hr": 162,
+          "max_hr": 162,
+          "avg_cadence": 74.0,
+          "zone": 3
         }
       ]
     }
