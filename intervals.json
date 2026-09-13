@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T05:22:32.858270",
+  "generated_at": "2026-09-13T10:28:20.014959",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -286,6 +286,64 @@
           "avg_hr": 174,
           "max_hr": 174,
           "avg_cadence": 75.0,
+          "zone": 4
+        }
+      ]
+    },
+    {
+      "activity_id": "i186148839",
+      "date": "2026-09-13",
+      "type": "Run",
+      "name": "Oeiras - Return to Running \u2014 Aerobic Ba",
+      "interval_summary": [
+        "1x 10m1s 140bpm",
+        "1x 42m16s 158bpm",
+        "1x 10m1s 165bpm",
+        "1x 33s 176bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "601s@140bpm83rpm",
+          "duration_secs": 601,
+          "avg_hr": 140,
+          "max_hr": 157,
+          "avg_cadence": 82.97837,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "2536s@158bpm83rpm",
+          "duration_secs": 2536,
+          "avg_hr": 158,
+          "max_hr": 174,
+          "avg_cadence": 83.42834,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "601s@165bpm82rpm",
+          "duration_secs": 601,
+          "avg_hr": 165,
+          "max_hr": 173,
+          "avg_cadence": 82.124794,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "33s@176bpm81rpm",
+          "duration_secs": 33,
+          "avg_hr": 176,
+          "max_hr": 178,
+          "avg_cadence": 80.69697,
+          "zone": 4
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 175,
+          "max_hr": 175,
+          "avg_cadence": 79.0,
           "zone": 4
         }
       ]
