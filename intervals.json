@@ -1,40 +1,10 @@
 {
-  "generated_at": "2026-09-21T21:54:22.672095",
+  "generated_at": "2026-09-22T00:34:38.546039",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i184107684",
-      "date": "2026-09-07",
-      "type": "Run",
-      "name": "Oeiras - Return to Running \u2014 Easy Recov",
-      "interval_summary": [
-        "1x 30m1s 145bpm",
-        "1x 94s 142bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "1801s@145bpm83rpm",
-          "duration_secs": 1801,
-          "avg_hr": 145,
-          "max_hr": 161,
-          "avg_cadence": 83.106606,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "94s@142bpm83rpm",
-          "duration_secs": 94,
-          "avg_hr": 142,
-          "max_hr": 146,
-          "avg_cadence": 82.680855,
-          "zone": 1
-        }
-      ]
-    },
     {
       "activity_id": "i184799819",
       "date": "2026-09-09",
