@@ -70,7 +70,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-10-18T22:25:15.991757",
+    "last_updated": "2026-10-19T00:20:36.741862",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.112"
@@ -133,7 +133,7 @@
       },
       "tsb": {
         "status": "green",
-        "value": 6.4
+        "value": 6.3
       }
     },
     "signal_summary": {
@@ -143,7 +143,7 @@
       "unavailable": 4
     },
     "phase_context": {
-      "phase": "Base",
+      "phase": "Recovery",
       "phase_week": 1,
       "amber_threshold": 2,
       "modifier_applied": "default"
@@ -155,8 +155,8 @@
   },
   "history": {
     "available": true,
-    "last_generated": "2026-09-14",
-    "age_days": 34,
+    "last_generated": "2026-10-19",
+    "age_days": 0,
     "total_months": 35,
     "history_confidence": "high"
   },
@@ -169,15 +169,15 @@
   },
   "current_status": {
     "fitness": {
-      "ctl": 6.79,
-      "atl": 0.35,
-      "tsb": 6.44,
-      "ramp_rate": -1.23,
+      "ctl": 6.63,
+      "atl": 0.31,
+      "tsb": 6.32,
+      "ramp_rate": -1.2,
       "fitness_source": "From Intervals.icu API (reflects completed workouts)"
     },
     "thresholds": {
-      "eftp": 88.4,
-      "w_prime": 7372,
+      "eftp": 88.3,
+      "w_prime": 7365,
       "w_prime_kj": 7.4,
       "p_max": 284,
       "vo2max": null,
@@ -255,7 +255,7 @@
     "hrv_baseline_7d": null,
     "rhr_baseline_7d": null,
     "hrv_baseline_28d": null,
-    "rhr_baseline_28d": 58.9,
+    "rhr_baseline_28d": 59,
     "latest_hrv": null,
     "latest_rhr": null,
     "acwr": 0.0,
@@ -353,12 +353,12 @@
       "power_curve_delta": {
         "window_days": 28,
         "current_window": {
-          "start": "2026-09-21",
-          "end": "2026-10-18"
+          "start": "2026-09-22",
+          "end": "2026-10-19"
         },
         "previous_window": {
-          "start": "2026-08-24",
-          "end": "2026-09-20"
+          "start": "2026-08-25",
+          "end": "2026-09-21"
         },
         "anchors": null,
         "rotation_index": null,
@@ -367,12 +367,12 @@
       "hr_curve_delta": {
         "window_days": 28,
         "current_window": {
-          "start": "2026-09-21",
-          "end": "2026-10-18"
+          "start": "2026-09-22",
+          "end": "2026-10-19"
         },
         "previous_window": {
-          "start": "2026-08-24",
-          "end": "2026-09-20"
+          "start": "2026-08-25",
+          "end": "2026-09-21"
         },
         "anchors": {
           "60s": {
@@ -403,8 +403,8 @@
         "note": "No sustainability data available.",
         "window": {
           "days": 42,
-          "start": "2026-09-07",
-          "end": "2026-10-18"
+          "start": "2026-09-08",
+          "end": "2026-10-19"
         }
       },
       "dfa_a1_profile": null
@@ -417,15 +417,15 @@
       "note": "No planned workouts in period"
     },
     "phase_detection": {
-      "phase": "Base",
+      "phase": "Recovery",
       "confidence": "medium",
       "reason_codes": [
-        "NO_PLANNED_WORKOUTS"
+        "DECLINING_LOAD_NO_HARD_DAYS"
       ],
       "basis": {
         "stream_1": {
-          "ctl_slope": null,
-          "acwr_trend": null,
+          "ctl_slope": -1.35,
+          "acwr_trend": "stable",
           "hard_day_pattern": 0,
           "weeks_available": 4
         },
@@ -447,9 +447,9 @@
       "dossier_declared": null,
       "dossier_agreement": null
     },
-    "phase_detected": "Base",
+    "phase_detected": "Recovery",
     "phase_triggers": [
-      "NO_PLANNED_WORKOUTS"
+      "DECLINING_LOAD_NO_HARD_DAYS"
     ],
     "seasonal_context": "Late Season / Transition",
     "benchmark_indoor": {
@@ -466,13 +466,13 @@
       "benchmark_percentage": null,
       "seasonal_expected": null
     },
-    "eftp": 88.4,
-    "w_prime": 7372,
+    "eftp": 88.3,
+    "w_prime": 7365,
     "w_prime_kj": 7.4,
     "p_max": 284,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-10-18T22:25:15.990611",
+    "calculation_timestamp": "2026-10-19T00:20:36.741003",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 0,
@@ -592,48 +592,6 @@
     }
   ],
   "wellness_data": [
-    {
-      "date": "2026-10-12",
-      "weight_kg": null,
-      "display": {
-        "weight": null
-      },
-      "resting_hr": null,
-      "hrv_rmssd": null,
-      "hrv_sdnn": null,
-      "sleep_hours": null,
-      "sleep_formatted": null,
-      "sleep_quality": null,
-      "sleep_score": null,
-      "mental_energy": null,
-      "avg_sleeping_hr": null,
-      "vo2max": null,
-      "fatigue": null,
-      "soreness": null,
-      "stress": null,
-      "mood": null,
-      "motivation": null,
-      "injury": null,
-      "hydration": null,
-      "spO2": null,
-      "blood_glucose": null,
-      "systolic": null,
-      "diastolic": null,
-      "baevsky_si": null,
-      "lactate": null,
-      "respiration": null,
-      "body_fat_pct": null,
-      "abdomen_cm": null,
-      "steps": null,
-      "hydration_volume_l": null,
-      "kcal_consumed": null,
-      "carbohydrates_g": null,
-      "protein_g": null,
-      "fat_g": null,
-      "menstrual_phase": null,
-      "menstrual_phase_predicted": null,
-      "readiness": null
-    },
     {
       "date": "2026-10-13",
       "weight_kg": null,
@@ -846,6 +804,48 @@
     },
     {
       "date": "2026-10-18",
+      "weight_kg": null,
+      "display": {
+        "weight": null
+      },
+      "resting_hr": null,
+      "hrv_rmssd": null,
+      "hrv_sdnn": null,
+      "sleep_hours": null,
+      "sleep_formatted": null,
+      "sleep_quality": null,
+      "sleep_score": null,
+      "mental_energy": null,
+      "avg_sleeping_hr": null,
+      "vo2max": null,
+      "fatigue": null,
+      "soreness": null,
+      "stress": null,
+      "mood": null,
+      "motivation": null,
+      "injury": null,
+      "hydration": null,
+      "spO2": null,
+      "blood_glucose": null,
+      "systolic": null,
+      "diastolic": null,
+      "baevsky_si": null,
+      "lactate": null,
+      "respiration": null,
+      "body_fat_pct": null,
+      "abdomen_cm": null,
+      "steps": null,
+      "hydration_volume_l": null,
+      "kcal_consumed": null,
+      "carbohydrates_g": null,
+      "protein_g": null,
+      "fat_g": null,
+      "menstrual_phase": null,
+      "menstrual_phase_predicted": null,
+      "readiness": null
+    },
+    {
+      "date": "2026-10-19",
       "weight_kg": null,
       "display": {
         "weight": null
